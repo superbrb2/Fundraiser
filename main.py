@@ -75,4 +75,4 @@ with ui.row():
     tank.display()
     ed.display()
         
-ui.run(on_air='RrpZ2rEeA5ccJPOg')
+ui.run(on_air='')
